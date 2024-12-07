@@ -26,17 +26,18 @@ several species of oysters and Dungeness Crab. Suitable locations will be determ
 (4) Other project files
 ```
 ├── Code and data
+│   ├── Intermediate Data
 │   ├── Data
 │   └── scripts.R
-├── redlining-justice_files
+├── potential-aquaculture_files
 │   ├── figure-html
 │   └── libs
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-├── redlining-justice.Rproj
-├── redlining-justice.html
-└── redlining-justice.qmd
+├── potential-aquaculture.Rproj
+├── potential-aquaculture.html
+└── potential-aquaculture.qmd
 ```
 ## Acknowledgements
 Course EDS223-Geospatial Analysis & Remote Sensing at UCSB
